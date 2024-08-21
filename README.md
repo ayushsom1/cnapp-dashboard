@@ -13,8 +13,10 @@ The CNAPP (Cloud Native Application Protection Platform) Dashboard is a web-base
 
 To set up the CNAPP Dashboard, follow these steps:
 
-1. Clone the repository: [git clone]https://github.com/ayushsom1/cnapp-dashboard.git)
-
+1. Clone the repository: 
+```
+git clone https://github.com/ayushsom1/cnapp-dashboard.git
+```
 2. Install the dependencies:
 
 ```
