@@ -1,13 +1,4 @@
-# CNAPP Dashboard
-
-The CNAPP (Cloud Native Application Protection Platform) Dashboard is a web-based application that provides a comprehensive view of your cloud infrastructure and security posture. This dashboard allows you to manage and monitor your cloud resources, analyze security risks, and take appropriate actions to ensure the overall health and compliance of your cloud environment.
-
-## Features
-
-- **Category Management**: The dashboard allows you to create, view, and manage different categories of cloud resources, such as CSPM (Cloud Security Posture Management), CWPP (Cloud Workload Protection Platform), and Registry Scans.
-- **Widget Management**: Within each category, you can add, remove, and customize widgets that display various metrics, alerts, and visualizations related to your cloud resources.
-- **Search and Filtering**: The dashboard provides a search functionality that allows you to filter the displayed widgets based on their names, types, and content.
-- **Responsive Design**: The application is designed to be responsive, ensuring a consistent user experience across different devices and screen sizes.
+# CNAPP Dashboard 
 
 ## Getting Started
 
